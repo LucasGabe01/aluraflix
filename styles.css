@@ -1,8 +1,6 @@
-section {
-    background: rgb(11, 11, 12);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
+body {
+    color: white;
+    background: black;
 }
 
 div {
